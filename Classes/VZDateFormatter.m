@@ -11,11 +11,6 @@
 static VZDateFormatter *_formatter = nil;
 
 
-@interface VZDateFormatter ()
-@property (nonatomic, strong) NSDateFormatter *dateFormatter;
-@end
-
-
 @implementation VZDateFormatter
 
 

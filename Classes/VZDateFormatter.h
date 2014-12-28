@@ -11,6 +11,7 @@
 @interface VZDateFormatter : NSObject
 
 + (instancetype)defaultFormatter;
+@property (nonatomic, readonly) NSDateFormatter *dateFormatter;
 
 - (NSString *) stringFromDate:(NSDate *)date withFormat:(NSString *)format;
 
