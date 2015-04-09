@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "VZDateFormatter"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Date formatter whith several usefull methods"
-  s.description  = "Date formatter whith several usefull methods"
+  s.description  = "Date formatter whith several usefull methods for me"
   s.homepage     = "https://github.com/alekoleg/VZDateFormatter"
   s.license      = 'MIT'
   s.author       = { "Oleg Alekseenko" => "alekoleg@gmail.com" }
